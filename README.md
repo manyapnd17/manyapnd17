@@ -1,3 +1,5 @@
+ #ALOHA!!
+ 
  👋 Hi, I’m Manya, a full stack Web Developer and currently pursuing B.tech in Electronics Enginee.
 A self starting and resourceful full stack Web Developer with good experience in JavaScript , Node , Express and React Framework. 
 I have implemeted both front end and back end coding.
